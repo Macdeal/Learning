@@ -1,0 +1,166 @@
+{
+  "title": "Hobby Projects",
+  "card": [
+    {
+      "imgUrl": "asset/back.png",
+      "srcUrl": "background-Light-Drops/index.html",
+      "id": 1,
+      "text": "Bg Animation",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/load.png",
+      "srcUrl": "loading-animation/index.html",
+      "id": 2,
+      "text": "Loading-Animation",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/water-drop.png",
+      "srcUrl": "WaterDrop-Animation/index.html",
+      "id": 3,
+      "text": "Water Drop",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/git.png",
+      "srcUrl": "GitHub-Profiles/index.html",
+      "id": 4,
+      "text": "GitHub Profile",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/rotating.png",
+      "srcUrl": "rotating-Text/index.html",
+      "id": 5,
+      "text": "Rotating Text",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/rotating.png",
+      "srcUrl": "rotating-Text/index.html",
+      "id": 5,
+      "text": "Rotating Text",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    },
+    {
+      "imgUrl": "asset/imageslider.png",
+      "srcUrl": "ImageSlider/index.html",
+      "id": 5,
+      "text": "Image Slider",
+      "btn_lbl": "Live Demo"
+    }
+  ]
+}
