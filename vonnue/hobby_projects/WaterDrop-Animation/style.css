@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  position: relative;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #eff0f4;
+}
+h3 {
+  font-size: 40px;
+  color: rgb(120, 197, 4);
+  text-decoration: underline;
+  text-align: center;
+  background-color: #eff0f4;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px 0;
+  gap: 40px 60px;
+}
+.container .drop {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 350px;
+  height: 350px;
+  box-shadow: inset 20px 20px 20px rgba(0, 0, 0, 0.05),
+    25px 35px 20px rgba(0, 0, 0, 0.05), 25px 30px 30px rgba(0, 0, 0, 0.05),
+    inset -20px -20px 25px rgba(255, 255, 255, 0.9);
+}
+.container .drop:nth-child(1) {
+  border-radius: 55% 45% 51% 49% / 30% 29% 71% 70%;
+}
+
+.container .drop:nth-child(2) {
+  border-radius: 70% 28% 48% 52% / 58% 57% 43% 42%;
+}
+
+.container .drop:nth-child(3) {
+  border-radius: 40% 55% 75% 25% / 40% 49% 71% 70%;
+}
+.container .drop:nth-child(4) {
+  border-radius: 80% 28% 71% 12% / 58% 29% 71% 72%;
+}
+.container .drop:hover {
+  border-radius: 40% 55% 49% 51% / 28% 55% 45% 72%;
+  scale: 1.1;
+}
+
+.container .drop:before {
+  content: "";
+  position: absolute;
+  width: 30px;
+  top: 50px;
+  left: 90px;
+  height: 30px;
+  background: #fff;
+  border-radius: 50%;
+}
+.container .drop::after {
+  content: "";
+  position: absolute;
+  width: 15px;
+  top: 95px;
+  left: 120px;
+  height: 15px;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.container .drop .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  top: 40px;
+  left: 25px;
+  z-index: 1;
+  margin: 0 auto;
+  position: absolute;
+}
+.content h2 {
+  font-size: 25px;
+  color: var(--clr);
+  font-weight: bold;
+}
+
+.content p {
+  font-size: 15px;
+  margin-top: 15px;
+  max-width: 300px;
+  font-weight: 600;
+  color: rgb(125, 122, 122);
+}
+.content a {
+  font-size: 14px;
+  margin-top: 10px;
+  background-color: rgb(120, 197, 4);
+  border-radius: 25px;
+  padding: 5px;
+  text-decoration: none;
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+a:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,24 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  width: 100%;
+  display: flex;
+  font-family: system-Ui;
+}
+.container {
+  background-color: black;
+}
+img {
+  height: 50%;
+  /* width: 100%; */
+}
+body p,
+h1 {
+  color: #fff;
+  font-size: 100px;
+}
+body h1 {
+  transform: translate3d(20px);
+}
